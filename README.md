@@ -6,7 +6,7 @@
 
 ## 💡 Visualizar
 
-#### 🔗 Clique em [Copa do Mundo 2022](https://g.app/) para conferir.
+#### 🔗 Clique em [Copa do Mundo 2022](https://pedrvv-copaqatar2022.netlify.app/) para conferir.
 <div align="center">
   <a href="#"><img src="https://i.imgur.com/8kSQl3o.png" title="Calendário Copa do Mundo 2022" /></a>
 </div>
